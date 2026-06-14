@@ -305,8 +305,8 @@ export default function ReservationModal() {
                   </path>
                 </svg>
 
-                <h4 className="font-serif text-2xl font-bold text-cream">You're all set!</h4>
-                <p className="text-sm text-muted">We'll call you shortly to confirm your booking.</p>
+                <h4 className="font-serif text-2xl font-bold text-cream">You&apos;re all set!</h4>
+                <p className="text-sm text-muted">We&apos;ll call you shortly to confirm your booking.</p>
 
                 <div className="mt-4 rounded-md border border-white/10 bg-[#0D0D0D] p-3 text-sm">Questions? Call us: 0337 2355333</div>
 
